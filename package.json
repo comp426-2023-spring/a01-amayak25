@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "node server.js --port=5555"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,5 @@
   "homepage": "https://github.com/comp426-2023-spring/a01-amayak25#readme",
   "dependencies": {
     "minimist": "^1.2.7"
-  },
-  "devDependencies": {}
+ }
 }
